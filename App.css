@@ -1,0 +1,36 @@
+/* src/App.css */
+.App {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+h1{
+  background-color:#1877F2;
+  color: white;
+  padding: 3rem;
+  border-radius: 8px;
+}
+
+ul h2{
+  margin: 3rem;
+  text-align: center;
+  color: white;
+  padding-top: 2rem;
+  padding-bottom: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+  background-color: #1877F2;
+  color: white;
+  border-radius: 8px;
+}
+
+li{
+  padding: 1rem;
+}
+
+
+
